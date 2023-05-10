@@ -1,0 +1,10 @@
+E:\CJHFiles\.NET\UIAutomation\UIAutomation\UIAutomation\bin\Debug\UIAutomation.exe.config
+E:\CJHFiles\.NET\UIAutomation\UIAutomation\UIAutomation\bin\Debug\UIAutomation.exe
+E:\CJHFiles\.NET\UIAutomation\UIAutomation\UIAutomation\bin\Debug\UIAutomation.pdb
+E:\CJHFiles\.NET\UIAutomation\UIAutomation\UIAutomation\obj\Debug\UIAutomation.csproj.AssemblyReference.cache
+E:\CJHFiles\.NET\UIAutomation\UIAutomation\UIAutomation\obj\Debug\UIAutomation.csproj.SuggestedBindingRedirects.cache
+E:\CJHFiles\.NET\UIAutomation\UIAutomation\UIAutomation\obj\Debug\UIAutomation.Properties.Resources.resources
+E:\CJHFiles\.NET\UIAutomation\UIAutomation\UIAutomation\obj\Debug\UIAutomation.csproj.GenerateResource.cache
+E:\CJHFiles\.NET\UIAutomation\UIAutomation\UIAutomation\obj\Debug\UIAutomation.csproj.CoreCompileInputs.cache
+E:\CJHFiles\.NET\UIAutomation\UIAutomation\UIAutomation\obj\Debug\UIAutomation.exe
+E:\CJHFiles\.NET\UIAutomation\UIAutomation\UIAutomation\obj\Debug\UIAutomation.pdb
